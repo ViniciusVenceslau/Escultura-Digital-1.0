@@ -1,7 +1,7 @@
 # Escultura-Digital-1.0
 Projeto Escultura Digital parte 1
 
-O documento e orientações da atividade foram feitas pelo professor Agostinho Brito - UFRN.
+As orientações e estratégias para o desenvovlvimento adequado da atividade foram feitas pelo professor Agostinho Brito - UFRN.
 
 O objetivo desse projeto é construir uma ferramenta em C++ para realizar esculturas em blocos representados por matrizes digitais, algo como a ideia usada pelo jogo minecraft.
 
