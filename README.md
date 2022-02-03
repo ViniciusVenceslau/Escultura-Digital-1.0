@@ -1,5 +1,5 @@
 # Escultura-Digital-1.0
-Projeto Escultura Digital parte 1
+Projeto Escultura Digital - parte 1
 
 As orientações e estratégias para o desenvovlvimento adequado da atividade foram feitas pelo professor Agostinho Brito - UFRN.
 
